@@ -13,4 +13,4 @@
 Puedes ver la implementación en vivo en el siguiente enlace:
 [consumo-rickandmorty-api](https://consumo-rickandmorty-api.vercel.app/)
 
-![Preview](https://user-images.githubusercontent.com/29671154/140673284-e3ec589b-dcb8-4bc1-9d7c-66ad8d6b4d6a.png)
+![Preview](https://rickandmortyapi.com/api/character/avatar/1.jpeg)
